@@ -43,7 +43,7 @@
                 data-mdb-ripple-init
                 class="btn text-white btn-floating m-1"
                 style="background-color: #333333;"
-                href="https://www.github.com/samueldelorenzi/"
+                href="https://www.github.com/samueldelorenzi/user-management-laravel"
                 role="button"
                 target="_blank"
                 rel="noopener"
