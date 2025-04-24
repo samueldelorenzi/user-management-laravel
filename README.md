@@ -1,5 +1,7 @@
 # Gerenciamento de Usuários - Aplicação CRUD
 
+![Tela inicial da aplicação](https://github.com/samueldelorenzi/user-management-laravel/blob/main/CRUD.png)
+
 Esta é uma aplicação desenvolvida com **Laravel** para o gerenciamento de usuários, utilizando as tecnologias **PHP**, **Vite** e **Bootstrap**. O sistema permite realizar operações de **CRUD** (Criar, Ler, Atualizar e Deletar) de usuários de forma simples e eficiente.
 
 ## Tecnologias Utilizadas
